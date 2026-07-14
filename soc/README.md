@@ -26,7 +26,7 @@ Codename:	focal
 $ uname -r
 5.11.0-27-generic
 ```
-> 目前在 Ubuntu 20.04 环境下我们可以直接使用官方提供的 GNU tools：
+> 目前在 Ubuntu 20.04 環境下我們可以直接使用官方提供的 GNU tools：
 ```
 $ sudo apt update
 $ sudo apt install build-essential gcc make perl dkms git gcc-riscv64-unknown-elf gdb-multiarch 
