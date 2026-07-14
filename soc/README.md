@@ -1,6 +1,5 @@
 # SOC
 
-#### 安装教程
 
 1. crossed complie(Gcc)
 > gcc 將在以後設計 riscv core時用來 compile 測試的程式檔。
